@@ -4,7 +4,7 @@
 # -------------------------------------------------------------------------------------
 
 title = "Hugo FixIt Blog"
-baseURL = "https://hugo-fixit.github.io/hugo-fixit-starter/"
+baseURL = "https://melan.sunmkt.uk/"
 # theme = "FixIt"
 defaultContentLanguage = "en"
 languageCode = "en"
@@ -20,5 +20,5 @@ ignoreLogs = [
   "error-get-remote-image",
   "error-get-remote-json",
   "error-remote-getjson",
-  "error-missing-instagram-accesstoken"
+  "error-missing-instagram-accesstoken",
 ]
