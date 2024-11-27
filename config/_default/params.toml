@@ -6,7 +6,7 @@
 # FixIt 0.2.15 | CHANGED FixIt theme version
 version = "0.3.X" # e.g. "0.2.X", "0.2.15", "v0.2.15" etc.
 # site description
-description = "This is my new Hugo FixIt site"
+description = "愿阳光照亮我的脸，玫瑰盛开在我的脚边。"
 # site keywords
 keywords = ["Hugo", "FixIt"]
 # site default theme ["light", "dark", "auto"]
@@ -40,10 +40,10 @@ disableThemeInject = false
 
 # Author Configuration
 [author]
-  name = "Lruihao"
-  email = "1024@lruihao.cn"
-  link = "https://github.com/Lruihao"
-  avatar = ""
+  name = "Melancholie"
+  email = "explorerlwt@outlook.com"
+  link = ""
+  avatar = "/images/favicon.svg"
 
 # FixIt 0.3.0 | NEW public Git repository information only then enableGitInfo is true
 [gitInfo]
@@ -59,11 +59,11 @@ disableThemeInject = false
 # App icon config
 [app]
   # optional site title override for the app when added to an iOS home screen or Android launcher
-  title = "Hugo FixIt Blog"
+  title = "Astra Atlas"
   # whether to omit favicon resource links
   noFavicon = false
   # modern SVG favicon to use in place of older style .png and .ico files
-  svgFavicon = ""
+  svgFavicon = "/images/favicon.svg"
   # Safari mask icon color
   iconColor = "#5bbad5"
   # Windows v8-10 tile color
@@ -115,7 +115,7 @@ disableThemeInject = false
   # Header title config
   [header.title]
     # URL of the LOGO
-    logo = "/images/favicon.svg"
+    logo = "/images/favicon2.svg"
     # title name
     name = ""
     # you can add extra information before the name (HTML format is supported), such as icons
@@ -127,7 +127,7 @@ disableThemeInject = false
   # FixIt 0.2.12 | NEW Header subtitle config
   [header.subtitle]
     # subtitle name
-    name = ""
+    name = "Astra Atlas"
     # whether to use typeit animation for subtitle name
     typeit = false
 
@@ -225,7 +225,7 @@ disableThemeInject = false
 
 # FixIt 0.2.17 | NEW TagCloud config for tags page
 [tagcloud]
-  enable = false
+  enable = true
   min = 14 # Minimum font size in px
   max = 32 # Maximum font size in px
   peakCount = 10 # Maximum count of posts per tag
@@ -237,15 +237,15 @@ disableThemeInject = false
   [home.profile]
     enable = true
     # Gravatar Email for preferred avatar in home page
-    gravatarEmail = "xx@xx.com"
+    gravatarEmail = ""
     # URL of avatar shown in home page
-    avatarURL = ""
+    avatarURL = "/images/favicon.svg"
     # FixIt 0.2.17 | NEW identifier of avatar menu link
-    avatarMenu = ""
+    avatarMenu = "/images/favicon.svg"
     # title shown in home page (HTML format is supported)
-    title = ""
+    title = "Melancholie"
     # subtitle shown in home page (HTML format is supported)
-    subtitle = "This is my new Hugo FixIt site"
+    subtitle = "愿阳光照亮我的脸，玫瑰盛开在我的脚边。"
     # whether to use typeit animation for subtitle
     typeit = true
     # whether to show social links
@@ -280,7 +280,7 @@ disableThemeInject = false
   FreeCodeCamp = ""
   Bitbucket = ""
   Stackoverflow = ""
-  Weibo = ""
+  Weibo = "https://weibo.com/u/6483703614"
   Odnoklassniki = ""
   VK = ""
   Flickr = ""
@@ -321,7 +321,7 @@ disableThemeInject = false
   Gitea = ""
   XMPP = ""
   Matrix = ""
-  Bilibili = ""
+  Bilibili = "https://space.bilibili.com/518903548?spm_id_from=333.1007.0.0"
   ORCID = ""
   Liberapay = ""
   Ko-Fi = ""
@@ -346,7 +346,7 @@ disableThemeInject = false
   TikTok = ""
   Credly = ""
   Phone = ""
-  Email = ""
+  Email = "explorerlwt@outlook.com"
   RSS = true
   # custom social links like the following
   # [social.twitter]
@@ -405,7 +405,7 @@ disableThemeInject = false
 [watermark]
   enable = false
   # watermark's text (HTML format is supported)
-  content = ""
+  content = "melancholie"
   # watermark's transparency
   opacity = 0.1
   # watermark's width. unit: px
@@ -511,7 +511,7 @@ disableThemeInject = false
 
 # FixIt 0.2.16 | NEW Reading progress bar
 [readingProgress]
-  enable = false
+  enable = true
   # Available values: ["left", "right"]
   start = "left"
   # Available values: ["top", "bottom"]

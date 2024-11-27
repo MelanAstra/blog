@@ -4,14 +4,14 @@
 # -------------------------------------------------------------------------------------
 
 [[main]]
-  identifier = "archives"
+  identifier = "about"
   parent = ""
   # you can add extra information before the name (HTML format is supported), such as icons
   pre = ""
   # you can add extra information after the name (HTML format is supported), such as icons
   post = ""
-  name = "Archives"
-  url = "/archives/"
+  name = "关于"
+  url = "/about/"
   # title will be shown when you hover on this menu link
   title = ""
   weight = 1
@@ -26,14 +26,25 @@
     # FixIt 0.2.16 | NEW set menu item type, optional values: ["mobile", "desktop"]
     type = ""
 [[main]]
+  identifier = "planets"
+  parent = ""
+  pre = ""
+  post = ""
+  name = "星球列"
+  url = "/planets/"
+  title = ""
+  weight = 2
+  [main.params]
+    icon = "fa-solid fa-folder-tree"
+[[main]]
   identifier = "categories"
   parent = ""
   pre = ""
   post = ""
-  name = "Categories"
+  name = "分类"
   url = "/categories/"
   title = ""
-  weight = 2
+  weight = 3
   [main.params]
     icon = "fa-solid fa-folder-tree"
 [[main]]
@@ -41,9 +52,21 @@
   parent = ""
   pre = ""
   post = ""
-  name = "Tags"
+  name = "标签"
   url = "/tags/"
   title = ""
-  weight = 3
+  weight = 4
+  [main.params]
+    icon = "fa-solid fa-tags"
+
+[[main]]
+  identifier = "stories"
+  parent = ""
+  pre = ""
+  post = ""
+  name = "故事"
+  url = "/stories/"
+  title = ""
+  weight = 5
   [main.params]
     icon = "fa-solid fa-tags"

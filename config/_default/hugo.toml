@@ -3,7 +3,7 @@
 # See: https://gohugo.io/getting-started/configuration/
 # -------------------------------------------------------------------------------------
 
-title = "Hugo FixIt Blog"
+title = "Melancholie的星图"
 baseURL = "https://melan.sunmkt.uk/"
 # theme = "FixIt"
 defaultContentLanguage = "en"
