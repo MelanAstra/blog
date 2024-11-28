@@ -41,7 +41,7 @@
   parent = ""
   pre = ""
   post = ""
-  name = "分类"
+  name = "合集"
   url = "/categories/"
   title = ""
   weight = 3

@@ -6,7 +6,7 @@ slug: /about/
 draft: true
 author:
   name: Melancholie
-  avatar:
+  avatar: "/images/favicon.svg"
 description: 关于我你有什么想问的呢
 keywords:
 license:
