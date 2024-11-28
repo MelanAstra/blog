@@ -2,7 +2,7 @@
 title: Melancholie的未解明记录
 subtitle: 
 date: 2024-11-28T10:28:40+08:00
-slug: /about/
+slug: about
 draft: true
 author:
   name: Melancholie
