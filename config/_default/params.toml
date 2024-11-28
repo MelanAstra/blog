@@ -41,8 +41,8 @@ disableThemeInject = false
 # Author Configuration
 [author]
   name = "Melancholie"
-  email = "explorerlwt@outlook.com"
-  link = ""
+  #email = "explorerlwt@outlook.com"
+  #link = ""
   avatar = "/images/favicon.svg"
 
 # FixIt 0.3.0 | NEW public Git repository information only then enableGitInfo is true
