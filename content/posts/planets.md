@@ -74,7 +74,7 @@ repost:
 
 所罗门星（Solomon）：1036-19147-3pX
 
-卡林希恩星（[Calynsiene](melan.sunmkt.uk/posts/calynsiene)）：1036-19147-4pE-X[^组织缩写]
+卡林希恩星（[Calynsiene](/posts/calynsiene)）：1036-19147-4pE-X[^组织缩写]
 
 格里达星（Gerida）：1036-19147-5pJ
 
@@ -84,7 +84,7 @@ repost:
 
 海蒂克星（Hetic）：2717-36458-1pX
 
-德里克普星（[Drikple](melan.sunmkt.uk/posts/drikple)）：2717-36458-2pE-U
+德里克普星（[Drikple](/posts/drikple)）：2717-36458-2pE-U
 
 德尼洛星（Denylost）：2717-36458-3pJ
 
@@ -104,17 +104,17 @@ repost:
 
 珍诺尔星（Jennour）：5084-96069-3pX
 
-坎特尔星（[Kanterr](melan.sunmkt.uk/posts/kanterr)）：5084-96069-4pE-U
+坎特尔星（[Kanterr](/posts/kanterr)）：5084-96069-4pE-U
 
 <br/>
 
 **万海约星系（Vann-Heilyorg）—北海洛系（Behigh-Locked）**
 
-奥里极罗星（[Origiro](melan.sunmkt.uk/posts/origiro)）：4401-70077-1pE-U
+奥里极罗星（[Origiro](/posts/origiro)）：4401-70077-1pE-U
 
 森特罗德星（Senter-Lod）：4401-70077-2pE
 
-文北苏星（[Vin-Besult](melan.sunmkt.uk/posts/vinbesult)）：4401-70077-3pE-A
+文北苏星（[Vin-Besult](/posts/vinbesult)）：4401-70077-3pE-A
 
 朱特库斯星（Jutkus）：4401-70077-4pJ
 
@@ -134,7 +134,7 @@ repost:
 
 贝赛尔星（Becell）：1210-04217-3pJ
 
-赫辛星（[Hercin](melan.sunmkt.uk/posts/hercin)）：1210-04217-4pE-U（Hein，Hardy）
+赫辛星（[Hercin](/posts/hercin)）：1210-04217-4pE-U（Hein，Hardy）
 
 费因莫斯星（Feynmes）：1210-04217-5pJ
 
@@ -148,7 +148,7 @@ repost:
 
 利比希星（Libich）：1083-01224-2pE
 
-梅尔斯星（[Mels](melan.sunmkt.uk/posts/mels)）：1083-01224-3pE-U
+梅尔斯星（[Mels](/posts/mels)）：1083-01224-3pE-U
 
 帕斯里格星（Paslig）：1083-01224-4pJ
 
@@ -162,7 +162,7 @@ repost:
 
 埃利维斯星（Elivis）：2801-20013-2pJ
 
-瓦克罗尼星（[Vakronne](melan.sunmkt.uk/posts/vakronne)）：2801-20013-3pE-U（Esseve）
+瓦克罗尼星（[Vakronne](/posts/vakronne)）：2801-20013-3pE-U（Esseve）
 
 塔勒斯星（Talles）：2801-20013-4pE
 
@@ -176,11 +176,11 @@ repost:
 
 高华德星（Goward）：3235-15642-1pE
 
-麦瑟星（[Masser](melan.sunmkt.uk/posts/masser)）：3235-15642-2pE-U
+麦瑟星（[Masser](/posts/masser)）：3235-15642-2pE-U
 
 贝克星（Baque）：3235-15642-3pE
 
-弗里蒂克星（[Fredic](melan.sunmkt.uk/posts/fredic)）：3235-15642-4pE-U
+弗里蒂克星（[Fredic](/posts/fredic)）：3235-15642-4pE-U
 
 米莱克斯星（Milex）：3235-15642-5pJ
 
@@ -194,7 +194,7 @@ repost:
 
 洛伊西星（Loisy）：4459-10385-1pX
 
-艾勒星（[Elle](melan.sunmkt.uk/posts/elle)）：4459-10385-2pE-U
+艾勒星（[Elle](/posts/elle)）：4459-10385-2pE-U
 
 森费尔星（Senfier）：4459-10385-3pJ
 
@@ -208,11 +208,11 @@ repost:
 
 西莫伊星（Ssemoy）：6172-24033-2pE-U
 
-因希尔星（[Incier](melan.sunmkt.uk/posts/incier)）：6172-24033-3pE-U
+因希尔星（[Incier](/posts/incier)）：6172-24033-3pE-U
 
 欧伦纳斯星（Orenus）：6172-24033-4pJ
 
-德伊亚特星（[Deiat](melan.sunmkt.uk/posts/deiat)）：6172-24033-5pE-U
+德伊亚特星（[Deiat](/posts/deiat)）：6172-24033-5pE-U
 
 <br/>
 
@@ -222,9 +222,9 @@ repost:
 
 卡文顿（Cawenton）：7011-00813-2pJ
 
-切斯里星（[Cheslie](melan.sunmkt.uk/posts/cheslie)）：7011-00813-3pE-U
+切斯里星（[Cheslie](/posts/cheslie)）：7011-00813-3pE-U
 
-易舍尔星（[Ishire](melan.sunmkt.uk/posts/ishire)）：7011-00813-4pE-A
+易舍尔星（[Ishire](/posts/ishire)）：7011-00813-4pE-A
 
 柯洛塔星（Colota）：7011-00813-5pE
 
@@ -240,7 +240,7 @@ repost:
 
 施兰克斯星（Schranx）：6001-28023-2pE
 
-魏因施坦因星（[Weinstein](melan.sunmkt.uk/posts/weinstein)）：6001-28023-3pE-U
+魏因施坦因星（[Weinstein](/posts/weinstein)）：6001-28023-3pE-U
 
 <br/>
 
@@ -254,7 +254,7 @@ repost:
 
 杰斯星（Jaice）：4981-31200-4pJ
 
-艾弗星（[Affer](melan.sunmkt.uk/posts/affer)）：4981-31200-5pE-U
+艾弗星（[Affer](/posts/affer)）：4981-31200-5pE-U
 
 <br/>
 
@@ -266,7 +266,7 @@ repost:
 
 哈什顿星（Hashton）：2338-25002-3pJ
 
-阿拉格星（[Arag](melan.sunmkt.uk/posts/arag)）：2338-25002-4pE-X
+阿拉格星（[Arag](/posts/arag)）：2338-25002-4pE-X
 
 配考星（Pekal）：2338-25002-5pJ
 
@@ -276,7 +276,7 @@ repost:
 
 加思奇星（Gathky）：5761-34144-1pX
 
-洛彻拉星（[Lochera](melan.sunmkt.uk/posts/lochera)）：5761-34144-2pE-U
+洛彻拉星（[Lochera](/posts/lochera)）：5761-34144-2pE-U
 
 布理施星（Blish）：5761-34144-3pE
 
@@ -302,7 +302,7 @@ repost:
 
 费萨星（Fessa）：1492-07901-2pE
 
-伊兰华星（[Illanward](melan.sunmkt.uk/posts/illanward)）：1492-07901-3pE-U
+伊兰华星（[Illanward](/posts/illanward)）：1492-07901-3pE-U
 
 诺可尔星（Nocur）：1492-07901-4pE
 
@@ -312,7 +312,7 @@ repost:
 
 赛尔星（Thyle）：6988-57459-1pE
 
-埃曼顿星（[Ementon](melan.sunmkt.uk/posts/ementon)）：6988-57459-2pE-A
+埃曼顿星（[Ementon](/posts/ementon)）：6988-57459-2pE-A
 
 <br/>
 
@@ -320,7 +320,7 @@ repost:
 
 班哈弗星（Banhaff）：4451-13799-1pJ
 
-查布罗特星（[Chaberott](melan.sunmkt.uk/posts/chaberott)）：4451-13799-2pE-R
+查布罗特星（[Chaberott](/posts/chaberott)）：4451-13799-2pE-R
 
 乔顿星（Joeton）：4451-13799-3pJ
 
@@ -332,7 +332,7 @@ repost:
 
 尤米-艾普星（Umi-Aiph）：3640-40156-2pE
 
-波里-卡莱星（[Pori-Kalai](melan.sunmkt.uk/posts/porikalai)）：3640-40156-3pE-X
+波里-卡莱星（[Pori-Kalai](/posts/porikalai)）：3640-40156-3pE-X
 
 帕考恩星（Pakorn）：3640-40156-4pE
 
@@ -342,7 +342,7 @@ repost:
 
 **米德辛星系（Middesn）—艾苏陶系（Esutal）**
 
-斯戴何星（[Stehe](melan.sunmkt.uk/posts/stehe)）：5999-67658-1pE-R
+斯戴何星（[Stehe](/posts/stehe)）：5999-67658-1pE-R
 
 布洛尼尔（Broneer）：5999-67658-2pX
 
@@ -356,7 +356,7 @@ repost:
 
 诺墨星（Nomoe）：4189-02507-2pJ
 
-帕希尔星（[Palsir](melan.sunmkt.uk/posts/palsir)）：4189-02507-3pE-X
+帕希尔星（[Palsir](/posts/palsir)）：4189-02507-3pE-X
 
 X-Wer：4189-02507-4pX
 
@@ -368,7 +368,7 @@ X-Wer：4189-02507-4pX
 
 温克星（Winque）：3118-42424-2pE
 
-纳夏尔星（[Nashire](melan.sunmkt.uk/posts/nashire)）：3118-42424-3pE-U
+纳夏尔星（[Nashire](/posts/nashire)）：3118-42424-3pE-U
 
 科辛星（Kohsin）：3118-42424-4pE
 
@@ -382,7 +382,7 @@ X-Wer：4189-02507-4pX
 
 提斯托星（Tisto）：2691-50590-1pX
 
-洛佩斯星（[Lopeth](melan.sunmkt.uk/posts/lopeth)）：2691-50590-2pE-U
+洛佩斯星（[Lopeth](/posts/lopeth)）：2691-50590-2pE-U
 
 柯拉星（Coraa）：2691-50590-3pJ
 
@@ -400,13 +400,13 @@ X-Wer：4189-02507-4pX
 
 特灵金星（Trinkin）：0902-10043-4pJ
 
-尤卡星（[Euka](melan.sunmkt.uk/posts/euka)）：0902-10043-5pE-U
+尤卡星（[Euka](/posts/euka)）：0902-10043-5pE-U
 
 <br/>
 
 **海拉维契星系（Harewelcci）—特兰图尔（Trantur）**
 
-埃利萨星（[Ellissar](melan.sunmkt.uk/posts/ellissar)）：1944-34587-1pE-R
+埃利萨星（[Ellissar](/posts/ellissar)）：1944-34587-1pE-R
 
 理乔克星（Richok）：1944-34587-2pJ
 
@@ -418,11 +418,11 @@ X-Wer：4189-02507-4pX
 
 皮麦格星（Pymighgue）：0488-05322-1pJ
 
-费泽星（[Fhaze](melan.sunmkt.uk/posts/fhaze)）：0488-05322-2pE-U
+费泽星（[Fhaze](/posts/fhaze)）：0488-05322-2pE-U
 
 柯里昂尼星（Crionee）：0488-05322-3pE
 
-韦德星（[Wade](melan.sunmkt.uk/posts/wade)）：0488-05322-4pE-U
+韦德星（[Wade](/posts/wade)）：0488-05322-4pE-U
 
 恒茨星（Huntze）：0488-05322-5pJ
 
