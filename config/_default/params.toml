@@ -280,7 +280,7 @@ disableThemeInject = false
   FreeCodeCamp = ""
   Bitbucket = ""
   Stackoverflow = ""
-  Weibo = "https://weibo.com/u/6483703614"
+  Weibo = ""
   Odnoklassniki = ""
   VK = ""
   Flickr = ""
@@ -321,7 +321,7 @@ disableThemeInject = false
   Gitea = ""
   XMPP = ""
   Matrix = ""
-  Bilibili = "https://space.bilibili.com/518903548?spm_id_from=333.1007.0.0"
+  Bilibili = ""
   ORCID = ""
   Liberapay = ""
   Ko-Fi = ""
@@ -346,7 +346,7 @@ disableThemeInject = false
   TikTok = ""
   Credly = ""
   Phone = ""
-  Email = "explorerlwt@outlook.com"
+  Email = ""
   RSS = true
   # custom social links like the following
   # [social.twitter]

@@ -3,7 +3,7 @@ title: Melancholie的未解明记录
 subtitle: 
 date: 2024-11-28T10:28:40+08:00
 slug: about
-draft: true
+
 author:
   name: Melancholie
   avatar: "/images/favicon.svg"
@@ -102,16 +102,16 @@ repost:
 
 <br/>
 
-### 也欢迎联系我
-
-个人推荐优先私信（包括但不限于微信、QQ等社交工具）
-
-如果您没有我的私人联系方式，以下两个途径或许能帮到您：
-
-我的B站主页：[是不是太冷淡了点](https://space.bilibili.com/518903548?spm_id_from=333.1007.0.0)
-
-我的微博主页：[端点星热心市民](https://weibo.com/u/6483703614)
+<br/>
 
 <br/>
 
-感谢您阅读至此，祝漫游愉快！
+<br/>
+
+<br/>
+
+<div style="text-align: center">
+
+<u>**感谢您阅读至此，祝漫游愉快！**</u>
+
+</div>
