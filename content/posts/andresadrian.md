@@ -13,12 +13,12 @@ license:
 comment: false
 weight: 0
 tags:
-  - 进取时代
+  - Age of Enterprise
   - Andres Adrian
-  - 星际联盟
+  - Star Union
 categories:
-  - 进取时代人物
-  - 星际联盟
+  - Age of Enterprise
+  - Star Union
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false

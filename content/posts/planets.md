@@ -15,9 +15,10 @@ comment: false
 weight: 0
 tags:
   - planets
-  - 星球
+  - Star Union
 categories:
-  - 星联宇宙基础设定
+  - Star Union
+  - Basic Settings
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false

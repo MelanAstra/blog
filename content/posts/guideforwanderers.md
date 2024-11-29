@@ -13,11 +13,10 @@ license:
 comment: false
 weight: 0
 tags:
-  - star union
-  - 星际联盟
+  - Star Union
 categories:
-  - 星际联盟
-  - 基本设定
+  - Star Union
+  - Basic Settings
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false

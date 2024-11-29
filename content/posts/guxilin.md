@@ -13,12 +13,12 @@ license:
 comment: false
 weight: 0
 tags:
-  - 顾希林
-  - 进取时代
-  - 星际联盟
+  - Gu Xilin
+  - Age of Enterprise
+  - Star Union
 categories:
-  - 星际联盟
-  - 进取时代人物
+  - Star Union
+  - Age of Enterprise
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false

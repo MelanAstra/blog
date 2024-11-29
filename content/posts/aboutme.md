@@ -15,7 +15,6 @@ weight: 0
 tags:
   - Melancholie
   - star union
-  - 星际联盟
 categories:
   - Melancholie
 hiddenFromHomePage: false
