@@ -1,47 +1,13 @@
 ---
-title: Melancholie的未解明记录
-subtitle: 
-date: 2024-11-28T10:28:40+08:00
-slug: about
-draft: true
-author:
-  name: Melancholie
-  avatar: "/images/favicon.svg"
-description: 关于我你有什么想问的呢
-keywords:
-license:
+title: "Melancholie的未解明记录"
+subtitle: "关于我你有什么想问的呢"
+date: 2024-12-01T09:26:51+08:00
+description: ""
+keywords: ""
 comment: false
-weight: 0
-tags:
-  - Melancholie
-  - star union
-categories:
-  - Melancholie
-hiddenFromHomePage: false
-hiddenFromSearch: false
-hiddenFromRelated: false
-hiddenFromFeed: false
-summary:
-resources:
-  - name: featured-image
-    src: featured-image.jpg
-  - name: featured-image-preview
-    src: featured-image-preview.jpg
-toc: true
-math: false
-lightgallery: false
-password:
-message:
-repost:
-  enable: true
-  url:
-
-# See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
 
-<!--more-->
-
-### 这里Melancholie
+## 这里Melancholie
 
 可以称呼为<u>Melan/珻</u>
 
@@ -73,7 +39,7 @@ repost:
 
 <br/>
 
-### 博客建立初衷
+## 博客建立初衷
 
 本博客建立的目的为<u>“把我的幻想及理想进行下去”</u>，内容包括但不限于各类篇幅的小说、随笔/有感而发、世界观设定等（可能未来还会有翻译（如果我有时间的话（躺）
 
@@ -81,7 +47,7 @@ repost:
 
 <br/>
 
-### 有关本站可能出现的系列故事（的基本设定/背景）导航
+## 有关本站可能出现的系列故事（的基本设定/背景）导航
 
 [星联宇宙漫游指南](/posts/guideforwanderers)
 
@@ -95,7 +61,7 @@ repost:
 
 <br/>
 
-### 关于我的文章
+## 关于我的文章
 
 右上角[故事](/stories/)就能看到全部啦！欢迎提任何建议，感谢所有阅读我的文章的人和外星生物和类人生物。我也在不断完善自己，提高我的写作能力，再次感谢你们的阅读和建议。
 
@@ -112,7 +78,3 @@ repost:
 <div style="text-align: center">
 
 <u>**感谢您阅读至此，祝漫游愉快！**</u>
-
-</div>
-
-<br/>

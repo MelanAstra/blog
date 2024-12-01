@@ -11,7 +11,7 @@
   # you can add extra information after the name (HTML format is supported), such as icons
   post = ""
   name = "关于"
-  url = "/posts/about/"
+  url = "/aboutme/"
   # title will be shown when you hover on this menu link
   title = ""
   weight = 1
@@ -31,11 +31,22 @@
   pre = ""
   post = ""
   name = "星球列"
-  url = "/posts/planets/"
+  url = "/planets/"
   title = ""
   weight = 2
   [main.params]
     icon = "fa-solid fa-folder-tree"
+[[main]]
+  identifier = "chronology"
+  parent = ""
+  pre = ""
+  post = ""
+  name = "年表"
+  url = "/chronology/"
+  title = ""
+  weight = 3
+  [main.params]
+    icon = "fa-solid fa-archive"
 [[main]]
   identifier = "categories"
   parent = ""
@@ -44,7 +55,7 @@
   name = "合集"
   url = "/categories/"
   title = ""
-  weight = 3
+  weight = 4
   [main.params]
     icon = "fa-solid fa-folder-tree"
 [[main]]
@@ -55,7 +66,7 @@
   name = "标签"
   url = "/tags/"
   title = ""
-  weight = 4
+  weight = 5
   [main.params]
     icon = "fa-solid fa-tags"
 
@@ -67,6 +78,6 @@
   name = "故事"
   url = "/stories/"
   title = ""
-  weight = 5
+  weight = 6
   [main.params]
     icon = "fa-solid fa-tags"

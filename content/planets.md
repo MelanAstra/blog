@@ -1,47 +1,11 @@
 ---
-title: Planets
-subtitle: 星球列
-date: 2024-11-28T08:30:16+08:00
-slug: planets
-draft: true
-author: 
-  name: "Melancholie"
- 
-  
-description: 星系星球合集
-keywords:
-license:
+title: "Planets"
+subtitle: "星球列"
+date: 2024-12-01T09:31:07+08:00
+description: "星系星球合集"
+keywords: ""
 comment: false
-weight: 0
-tags:
-  - planets
-  - Star Union
-categories:
-  - Star Union
-  - Basic Settings
-hiddenFromHomePage: false
-hiddenFromSearch: false
-hiddenFromRelated: false
-hiddenFromFeed: false
-summary:
-resources:
-  - name: featured-image
-    src: featured-image.jpg
-  - name: featured-image-preview
-    src: featured-image-preview.jpg
-toc: true
-math: false
-lightgallery: false
-password:
-message:
-repost:
-  enable: true
-  url:
-
-# See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
-
-<!--more-->
 
 ## 星联宇宙星系星球集合[^说明]
 
@@ -504,6 +468,16 @@ X-Wer：4189-02507-4pX
 泰萨尔星（Tessar）-U
 
 伊诺格星（Enog）-A
+
+<br/>
+
+<div style="text-align:right;">
+<font color=#A9A9A9> 
+
+*version 3.0.0(2024/11/28)* 
+
+</font>
+</div>
 
 <br/>
 
