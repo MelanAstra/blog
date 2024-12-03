@@ -13,9 +13,11 @@ license:
 comment: false
 weight: 0
 tags:
-  - draft
+  - Star Union
 categories:
-  - draft
+  - Star Union
+  - Basic Settings
+  
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false
@@ -56,7 +58,7 @@ repost:
 
 <br/>
 
-## 前身及伊始时期
+## 前身及伊始时期 Period of Beginning
 
 星际联盟的前身是星际和平组织。火线纪元272年，奥里极罗星、因希尔星和德伊亚特星政府代表人在格万尼斯-艾库尔恒星系统于“和平未来”号上签署《星际和平组织协约》，星际和平组织正式成立，旨在尽早结束这蔓延全宇宙的战火、促进星际和平。
 
@@ -78,7 +80,7 @@ repost:
 
 <br/>
 
-## 黎明时代
+## 黎明时代 Age of Dawn
 
 得益于“建设者计划”的顺利实施，星际联盟的发展迎来了曙光，进入了“黎明时代”。
 
@@ -90,7 +92,7 @@ repost:
 
 <br/>
 
-## 进取时代
+## 进取时代 Age of Enterprise
 
 进取时代是星际联盟走向星际间不可动摇的地位的开始。
 
@@ -108,7 +110,7 @@ repost:
 
 <br/>
 
-## 辉煌时代
+## 辉煌时代 Age of glory
 
 辉煌时代，顾名思义，是星际联盟整体最为辉煌的一个时期。
 
@@ -122,7 +124,7 @@ repost:
 
 <br/>
 
-## 探索时代
+## 探索时代 Age of Exploration
 
 探索时代是星际联盟在星联纪元中的最后一个时代，也被史学家称为“辉煌时代最后的余韵”。
 
@@ -138,7 +140,7 @@ repost:
 
 <br/>
 
-## 覆灭时代
+## 覆灭时代 Age of Destructon
 
 在经历了407年后，星际联盟最终迎来了它的结局。
 
