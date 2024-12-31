@@ -223,7 +223,7 @@ repost:
 <div style="text-align:right;">
 <font color=#A9A9A9> 
 
-*version 4.0.1(2024/11/30)* 
+*version 1.0.0(2024/12/31)* 
 
 </font>
 </div>
