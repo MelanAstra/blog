@@ -14,3 +14,5 @@ comment: false
 [第一缕光](/posts/thefirstdawn)
 
 [《第一缕光》后记](/posts/afterthefirstdawn)
+
+[沉寂的沙漠](/posts/desertofsilence)（还在努力更）
