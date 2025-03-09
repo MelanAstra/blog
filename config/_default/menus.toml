@@ -81,3 +81,15 @@
   weight = 6
   [main.params]
     icon = "fa-solid fa-tags"
+
+[[main]]
+  identifier = "friends"
+  parent = ""
+  pre = ""
+  post = ""
+  name = "友情链接"
+  url = "/friends/"
+  title = ""
+  weight = 7
+  [main.params]
+    icon = "fa-solid fa-user-group"
