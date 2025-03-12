@@ -161,7 +161,7 @@ repost:
 <div style="text-align:right;">
 <font color=#A9A9A9> 
 
-*version 5.0.(2025/03/11)* 
+*version 5.0.1(2025/03/11)* 
 
 </font>
 </div>

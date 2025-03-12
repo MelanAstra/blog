@@ -16,3 +16,5 @@ comment: false
 [《第一缕光》后记](/posts/afterthefirstdawn)
 
 [沉寂的沙漠](/posts/desertofsilence)（还在努力更）
+
+[史前故事集：战争纪元的开始](/posts/thebeginningoferaofwar)
