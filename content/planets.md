@@ -107,17 +107,17 @@ comment: false
 
 <br/>
 
-**拉文代尔星系（Ravindale）—埃文恩系（Averne）**
+**拉文达斯星系（Ravindas）—埃文尼斯系（Avernes）**
 
-哈尔梅恩星（Halmein）：1083-01224-1pE
+哈尔梅恩斯星（Halmeins）：1083-01224-1pE
 
-利比希星（Libich）：1083-01224-2pE
+利比斯星（Libics）：1083-01224-2pE
 
 梅尔斯星（[Mels](/posts/mels)）：1083-01224-3pE-U
 
-帕斯里格星（Paslig）：1083-01224-4pJ
+帕斯里格斯星（Pasligs）：1083-01224-4pJ
 
-维耐尔星（Vehnel）1083-01224-5pJ
+维耐尔斯星（Vehnels）1083-01224-5pJ
 
 <br/>
 
