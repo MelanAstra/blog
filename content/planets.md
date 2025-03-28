@@ -121,17 +121,17 @@ comment: false
 
 <br/>
 
-**海利斯星系（Hylis）—柯维诺系（Coveno）**
+**海利斯星系（Hylith）—柯维诺系（Coveno）**
 
 德尔希安星（Delhian）：2801-20013-1pX
 
-埃利维斯星（Elivis）：2801-20013-2pJ
+埃利维星（Elivit）：2801-20013-2pE
 
 瓦克罗尼星（[Vakronne](/posts/vakronne)）：2801-20013-3pE-U（Esseve）
 
-塔勒斯星（Talles）：2801-20013-4pE
+塔勒斯星（Talleth）：2801-20013-4pE
 
-欧迈尔星（Omile）：2801-20013-5pJ
+欧迈尔星（Omael）：2801-20013-5pJ
 
 纳沃洛星（Navolo）：2801-20013-6pJ
 
