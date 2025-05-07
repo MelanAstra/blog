@@ -474,7 +474,7 @@ X-Wer：4189-02507-4pX
 <div style="text-align:right;">
 <font color=#A9A9A9> 
 
-*version 3.0.0(2024/11/28)* 
+*version 3.1.0(2025/05/07)* 
 
 </font>
 </div>
