@@ -15,7 +15,7 @@ weight: 0
 tags:
   - Age of Enterprise
 categories:
-  - Star Union Stories
+  - Main Stories
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

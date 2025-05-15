@@ -15,7 +15,7 @@ weight: 0
 tags:
   - Melancholie
 categories:
-  - Melancholie
+  - Others
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false

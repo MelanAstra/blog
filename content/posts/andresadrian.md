@@ -17,8 +17,7 @@ tags:
   - Andres Adrian
   - Star Union
 categories:
-  - Age of Enterprise
-  - Star Union
+  - Settings
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false

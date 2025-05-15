@@ -7,6 +7,38 @@ keywords: ""
 comment: false
 ---
 
+### 分类合集指路：
+
+[主故事线](/categories/main-stories)
+
+[番外/后记/小传](/categories/specials)
+
+[史前故事集](/categories/prehistoric-tales)
+
+[机构、人物、星球、组织设定](/categories/settings)
+
+<br/>
+
+<font color=#A9A9A9> 
+
+以后可能会有星球神话传说、近史（危机纪元及火线纪元历史）和未来史学（星际联盟覆灭之后）。 
+
+</font>
+
+<br/>
+
+### 全部故事：
+
+<br/>
+
+<font color=#A9A9A9> 
+
+这里放出来的仅仅是故事类文章，不包括设定类。 
+
+</font>
+
+<br/>
+
 [覆灭序曲](/posts/preludeofdestruction)
 
 [【跨年特辑】星河高悬](/posts/howhighthestars)
@@ -18,3 +50,9 @@ comment: false
 [沉寂的沙漠](/posts/desertofsilence)（还在努力更）
 
 [史前故事集：战争纪元的开始](/posts/thebeginningoferaofwar)
+
+[史前故事集：梅尔斯与伊斯利尔](/posts/melsandisiril)
+
+[史前故事集：瓦克罗尼与双星](/posts/vakronneandthedoublestar)
+
+[电磁波中的海洋](/posts/oceanoftheetherwave)

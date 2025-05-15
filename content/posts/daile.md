@@ -17,8 +17,7 @@ tags:
   - Dai Le
   - Star Union
 categories:
-  - Age of Dawn
-  - Star Union
+  - Settings
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false

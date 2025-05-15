@@ -15,8 +15,7 @@ weight: 0
 tags:
   - Star Union
 categories:
-  - Star Union
-  - Basic Settings
+  - Guides
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false

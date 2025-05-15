@@ -14,8 +14,11 @@ comment: false
 weight: 0
 tags:
   - Star Union
+  - Gu Xilin
+  - Andres Adrian
+  - Bemoenth
 categories:
-  - Star Union
+  - Specials
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false

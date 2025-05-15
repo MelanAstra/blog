@@ -17,8 +17,7 @@ tags:
   - planets
   - Star Union
 categories:
-  - Star Union
-  - Basic Settings
+  - Settings
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false
@@ -45,7 +44,7 @@ repost:
 
 ## 星联宇宙星系星球集合[^说明]
 
-**银河系—太阳系**
+**银河系—S太阳系**
 
 水星（Mercury）：3967-43972-1pE[^星球编码方式]
 

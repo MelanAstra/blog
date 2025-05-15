@@ -16,7 +16,7 @@ tags:
   - Age of Dawn
   - Alan Cambel
 categories:
-  - Age of Dawn
+  - Settings
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false

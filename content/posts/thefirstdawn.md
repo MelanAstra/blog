@@ -13,9 +13,12 @@ license:
 comment: false
 weight: 0
 tags:
-  - draft
+  - Star Union
+  - Anloce Lene
+  - Mether Geltzby
+  - Period of Beginning
 categories:
-  - draft
+  - Main Stories
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false

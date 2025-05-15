@@ -17,8 +17,7 @@ tags:
   - Anloce Lene
   - Star Union
 categories:
-  - Period of Beginning
-  - Star Union
+  - Settings
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false

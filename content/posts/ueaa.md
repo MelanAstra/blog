@@ -16,8 +16,7 @@ tags:
   - Star Union
   - UEAA
 categories:
-  - Star Union
-  - UEAA
+  - Settings
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false

@@ -17,8 +17,7 @@ tags:
   - Age of Enterprise
   - Star Union
 categories:
-  - Star Union
-  - Age of Enterprise
+  - Settings
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false
