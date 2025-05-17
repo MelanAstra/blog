@@ -91,7 +91,7 @@ repost:
 
 <br/>
 
-## 进取时代 Age of Enterprise
+## 进取时代 Age of Ascendency
 
 进取时代是星际联盟走向星际间不可动摇的地位的开始。
 
@@ -109,7 +109,7 @@ repost:
 
 <br/>
 
-## 辉煌时代 Age of glory
+## 辉煌时代 Age of Lumina
 
 辉煌时代，顾名思义，是星际联盟整体最为辉煌的一个时期。
 
@@ -139,7 +139,7 @@ repost:
 
 <br/>
 
-## 覆灭时代 Age of Destructon
+## 覆灭时代 Age of Fall
 
 在经历了407年后，星际联盟最终迎来了它的结局。
 
@@ -160,7 +160,7 @@ repost:
 <div style="text-align:right;">
 <font color=#A9A9A9> 
 
-*version 5.0.1(2025/03/11)* 
+*version 5.0.2(2025/05/17)* 
 
 </font>
 </div>
