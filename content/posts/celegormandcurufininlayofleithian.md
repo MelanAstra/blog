@@ -31,7 +31,7 @@ resources:
 toc: true
 math: false
 lightgallery: false
-password:
+password: feanoriondidnothingwrong
 message:
 
 
