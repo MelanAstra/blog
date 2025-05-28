@@ -8,10 +8,10 @@ author:
   name: Melancholie
  
 description: 星际联盟组织简介
-keywords:
-license:
+keywords: 
+license: 
 comment: false
-weight: 0
+weight: 1
 tags:
   - Star Union
 categories:
@@ -21,7 +21,7 @@ hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false
 hiddenFromFeed: false
-summary:
+summary: 
 resources:
   - name: featured-image
     src: featured-image.jpg
@@ -30,11 +30,9 @@ resources:
 toc: true
 math: false
 lightgallery: false
-password:
-message:
-repost:
-  enable: true
-  url:
+password: 
+message: 
+
 
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
