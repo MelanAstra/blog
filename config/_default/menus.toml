@@ -22,7 +22,7 @@
     # whether set as a draft menu item whose function is similar to a draft post/page
     draft = false
     # FixIt 0.2.16 | NEW add fontawesome icon to a specific menu item
-    icon = "fa-solid fa-archive"
+    icon = ""
     # FixIt 0.2.16 | NEW set menu item type, optional values: ["mobile", "desktop"]
     type = ""
 [[main]]
@@ -35,7 +35,7 @@
   title = ""
   weight = 2
   [main.params]
-    icon = "fa-solid fa-folder-tree"
+    icon = ""
 [[main]]
   identifier = "chronology"
   parent = ""
@@ -46,7 +46,7 @@
   title = ""
   weight = 3
   [main.params]
-    icon = "fa-solid fa-archive"
+    icon = ""
 [[main]]
   identifier = "categories"
   parent = ""
@@ -57,7 +57,7 @@
   title = ""
   weight = 4
   [main.params]
-    icon = "fa-solid fa-folder-tree"
+    icon = ""
 [[main]]
   identifier = "tags"
   parent = ""
@@ -66,9 +66,9 @@
   name = "标签"
   url = "/tags/"
   title = ""
-  weight = 5
+  weight = 6
   [main.params]
-    icon = "fa-solid fa-tags"
+    icon = ""
 
 [[main]]
   identifier = "stories"
@@ -78,9 +78,9 @@
   name = "故事"
   url = "/stories/"
   title = ""
-  weight = 6
+  weight = 5
   [main.params]
-    icon = "fa-solid fa-tags"
+    icon = ""
 
 [[main]]
   identifier = "friends"
@@ -92,4 +92,4 @@
   title = ""
   weight = 7
   [main.params]
-    icon = "fa-solid fa-user-group"
+    icon = ""
