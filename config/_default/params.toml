@@ -262,8 +262,8 @@ disableThemeInject = false
 [social]
   GitHub = ""
   Linkedin = ""
-  Twitter = ""
-  Instagram = ""
+  Twitter = "MelanAstra"
+  Instagram = "melanastra"
   Facebook = ""
   Telegram = ""
   Medium = ""
@@ -346,8 +346,8 @@ disableThemeInject = false
   TikTok = ""
   Credly = ""
   Phone = ""
-  Email = ""
-  RSS = true
+  Email = "melanastra@outlook.com"
+  RSS = false
   # custom social links like the following
   # [social.twitter]
   #   id = "lruihao"

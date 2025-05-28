@@ -53,11 +53,8 @@ comment: false
 
 [星联宇宙漫游指南](/posts/guideforwanderers)
 
-[如何追回被吊销的傲罗证](/posts/ithanisauro)
 
-[震惊！《太阳系前沿》总编居然…](/posts/solarsystemfrontier)
-
-其他不成体系的故事和文章都能在合集里面找到！右上角分类就能看到啦！
+相关的故事和文章都能在[合集](/categories)里面找到！
 
 以及，以上链接部分只是**对世界观/设定的总概括**，具体也请右上角合集。
 
@@ -66,6 +63,16 @@ comment: false
 ## 关于我的文章
 
 右上角[故事](/stories/)就能看到全部啦！欢迎提任何建议，感谢所有阅读我的文章的人和外星生物和类人生物。我也在不断完善自己，提高我的写作能力，再次感谢你们的阅读和建议。
+
+<br/>
+
+## 与我联系
+
+这里是我的[推特/X](https://x.com/MelanAstra)以及我的[Instagram](https://www.instagram.com/melanastra)!
+
+以及这里是我的[个人邮箱](mailto:melanstra@outlook.com)。
+
+欢迎一切友好的联系！
 
 <br/>
 
