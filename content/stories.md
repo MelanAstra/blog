@@ -56,3 +56,5 @@ comment: false
 [史前故事集：瓦克罗尼与双星](/posts/vakronneandthedoublestar)
 
 [电磁波中的海洋](/posts/oceanoftheetherwave)
+
+[如烟](/posts/astimefliesby)
