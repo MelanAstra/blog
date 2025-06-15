@@ -60,3 +60,5 @@ comment: false
 [如烟](/posts/astimefliesby)
 
 [雨伞](/posts/umbrella)
+
+[穿越那片海](/posts/gothroughthesea)
