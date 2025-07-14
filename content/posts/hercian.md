@@ -95,7 +95,7 @@ message:
 | /m/ | m、mh、mw |
 | /n/ | n、nn、nw、nh |
 | /ŋ/ | ng |
-| /l/ | l、lh |
+| /l/ | l、lh、ll |
 | /r/ | r、rr、rh、rw |
 | /j/ | j |
 | /w/ | w、wh |
@@ -142,22 +142,22 @@ message:
 
 | 表示过去的词语 | 用法 | 释义 |
 | :------: | :------: | :------: |
-| di | 放在动词后 | 了 |
-| upen | 放在动词前 | 曾经、以前 |
+| di | 放在动词前 | 了 |
+| upen | 放在动词后 | 曾经、以前 |
 
 ### 表示现在的词
 
 | 表示现在的词语 | 用法 | 释义 |
 | :------: | :------: | :------: |
-| ie | 放在动词后 | 正、在 |
-| aben | 放在动词前 | 现在、目前 |
+| ie | 放在动词前 | 正、在 |
+| aben | 放在动词后 | 现在、目前 |
 
 ### 表示未来的词
 
 | 表示未来的词语 | 用法 | 释义 |
 | :------: | :------: | :------: |
-| thi | 放在动词后 | 将、要 |
-| rynen | 放在动词前 | 未来、将来 |
+| thi | 放在动词前 | 将、要 |
+| rynen | 放在动词后 | 未来、将来 |
 
 <br/>
 
@@ -279,8 +279,8 @@ message:
 | tenehercin | tenen 技术 | 赫辛的技术 |
 | synenelis | synen 和平 | 他们的和平 |
 | cyvetenen | cyven 科学 | 科学技术 |
-| Hercin al asven laramek upen siles. | al 一个；asven 星球；laramek 美丽的；siles 是 | 赫辛星曾是一个美丽的星球。（强调美丽） |
-| Hercin al laramek asven upen siles. | al 一个；asven 星球；laramek 美丽的；siles 是 | 赫辛星曾是一个美丽的星球。 |
+| Hercin siles al asven laramek upen. | al 一个；asven 星球；laramek 美丽的；siles 是 | 赫辛星曾是一个美丽的星球。（强调美丽） |
+| Hercin siles al laramek asven upen. | al 一个；asven 星球；laramek 美丽的；siles 是 | 赫辛星曾是一个美丽的星球。 |
 | Tenehercin vexes dotuk. | vexes 发展；dotuk 迅速地 | 赫辛的技术发展迅速。 |
 
 <br/>
@@ -288,7 +288,7 @@ message:
 <div style="text-align:right;">
 <font color=#A9A9A9> 
 
-*version 1.0.0(2025/07/11)* 
+*version 1.1.0(2025/07/14)* 
 
 </font>
 </div>
