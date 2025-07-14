@@ -13,9 +13,9 @@ license:
 comment: false
 weight: 0
 tags:
-  - draft
+  - Planetary Resistance Force
 categories:
-  - draft
+  - Settings
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false
