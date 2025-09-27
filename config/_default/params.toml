@@ -10,7 +10,7 @@ description = "愿阳光照亮我的脸，玫瑰盛开在我的脚边。"
 # site keywords
 keywords = ["Hugo", "FixIt"]
 # site default theme ["light", "dark", "auto"]
-defaultTheme = "auto"
+defaultTheme = "dark"
 # which hash function used for SRI, when empty, no SRI is used
 # ["sha256", "sha384", "sha512", "md5"]
 fingerprint = ""
@@ -115,7 +115,7 @@ disableThemeInject = false
   # Header title config
   [header.title]
     # URL of the LOGO
-    logo = "/images/starunionblue.png"
+    logo = "/images/starunionyellow.png"
     # title name
     name = ""
     # you can add extra information before the name (HTML format is supported), such as icons
@@ -155,7 +155,7 @@ disableThemeInject = false
   # whether to show the author
   author = true
   # Site creation year
-  since = 2021
+  since = 2024
   # FixIt 0.2.12 | NEW Public network security only in China (HTML format is supported)
   gov = ""
   # ICP info only in China (HTML format is supported)
@@ -165,8 +165,8 @@ disableThemeInject = false
   # FixIt 0.3.0 | NEW whether to show Hugo and theme info
   [footer.powered]
     enable = true
-    hugoLogo = true
-    themeLogo = true
+    hugoLogo = false
+    themeLogo = false
   # FixIt 0.2.17 | CHANGED Site creation time
   [footer.siteTime]
     enable = false
@@ -254,7 +254,7 @@ disableThemeInject = false
     disclaimer = ""
   # Home page posts
   [home.posts]
-    enable = true
+    enable = false
     # special amount of posts in each home posts page
     paginate = 6
 
@@ -405,9 +405,9 @@ disableThemeInject = false
 [watermark]
   enable = false
   # watermark's text (HTML format is supported)
-  content = "melancholie"
+  content = "/images/background.png"
   # watermark's transparency
-  opacity = 0.1
+  opacity = 0.5
   # watermark's width. unit: px
   width = 150
   # watermark's height. unit: px
@@ -830,7 +830,7 @@ disableThemeInject = false
       pageSize = 10
       imageUploader = false # FixIt 0.2.15 | NEW
       highlighter = false # FixIt 0.2.15 | NEW
-      comment = false # FixIt 0.2.15 | NEW
+      comment = false# FixIt 0.2.15 | NEW
       texRenderer = false # FixIt 0.2.16 | NEW
       search = false # FixIt 0.2.16 | NEW
       recaptchaV3Key = "" # FixIt 0.2.16 | NEW
@@ -915,3 +915,8 @@ disableThemeInject = false
     [page.seo.publisher]
       name = ""
       logoUrl = ""
+
+
+
+
+  
