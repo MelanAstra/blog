@@ -134,8 +134,8 @@ disableThemeInject = false
 # FixIt 0.2.18 | NEW Breadcrumb config
 [breadcrumb]
   enable = false
-  sticky = false
-  showHome = false
+  sticky = true
+  showHome = true
   # FixIt 0.3.13 | NEW
   separator = "/"
   capitalize = true
@@ -169,18 +169,18 @@ disableThemeInject = false
     themeLogo = false
   # FixIt 0.2.17 | CHANGED Site creation time
   [footer.siteTime]
-    enable = false
-    animate = true
+    enable = true
+    animate = false
     icon = "fa-solid fa-heartbeat"
-    pre = ""
-    value = "" # e.g. "2021-12-18T16:15:22+08:00"
+    pre = "Keep Explorering and un-Flatlined Yet"
+    value = "2024-12-01T19:30:00+08:00" # e.g. "2021-12-18T16:15:22+08:00"
   # FixIt 0.2.17 | NEW footer lines order, optional values: ["first", 0, 1, 2, 3, 4, 5, "last"]
   [footer.order]
     powered = 0
-    copyright = 0
-    statistics = 0
-    visitor = 0
-    beian = 0
+    copyright = 1
+    statistics = 2
+    visitor = 3
+    beian = 4
 
 # FixIt 0.3.0 | NEW Archives page config (all pages of posts type)
 [archives]
@@ -507,7 +507,7 @@ disableThemeInject = false
 [backToTop]
   enable = true
   # Scroll percent label in b2t button
-  scrollpercent = false
+  scrollpercent = true
 
 # FixIt 0.2.16 | NEW Reading progress bar
 [readingProgress]
@@ -518,7 +518,7 @@ disableThemeInject = false
   position = "top"
   reversed = false
   light = ""
-  dark = ""
+  dark = "#01fbffff"
   height = "2px"
 
 # FixIt 0.2.17 | NEW Progress bar in the top during page loading.
@@ -527,11 +527,11 @@ disableThemeInject = false
   enable = false
   # All available colors:
   # ["black", "blue", "green", "orange", "pink", "purple", "red", "silver", "white", "yellow"]
-  color = "blue"
+  color = "silver"
   # All available themes:
   # ["barber-shop", "big-counter", "bounce", "center-atom", "center-circle", "center-radar", "center-simple",
   # "corner-indicator", "fill-left", "flash", "flat-top", "loading-bar", "mac-osx", "material", "minimal"]
-  theme = "minimal"
+  theme = "barber-shop"
 
 # FixIt 0.3.10 | NEW Global Feed config for RSS, Atom and JSON feed.
 [feed]
@@ -746,7 +746,7 @@ disableThemeInject = false
     Flipboard = false
     Weibo = true
     Myspace = false
-    Blogger = false
+    Blogger = true
     Baidu = false
     Odnoklassniki = false
     Evernote = false
