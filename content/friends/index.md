@@ -6,7 +6,7 @@ date: 2025-03-09T23:26:12+08:00
 description: "Melancholie's friends"
 keywords:
   - 友情链接
-comment: false
+comment: true
 ---
 
 <!-- The `friends.yml` file placed in the `yourProject/data/` directory will be loaded automatically here. -->
