@@ -8,8 +8,10 @@
         //'Microsoft Yahei', 'WenQuanYi Micro Hei', 'ST Heiti', sans-serif;
 //}
 body {
-    background: url('../images/starbackground.jpg');
-    transition: background ease 0.2s, color ease 0.2s;
+    [data-theme='dark'] & {
+        background: url('../images/starbackground.jpg');
+        transition: background ease 0.2s, color ease 0.2s;
+    }
 }
 
 #header-desktop .header-wrapper {
