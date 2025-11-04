@@ -62,3 +62,7 @@ comment: false
 [雨伞](/posts/umbrella)
 
 [穿越那片海](/posts/gothroughthesea)
+
+[晨昏测不准原理](/posts/uncertainty-principle-of-the-terminator-line)
+
+[长夜遗录：折叠引擎B-D126E3模组图纸(未提交)](/posts/b-d126e3)
